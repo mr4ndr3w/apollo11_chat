@@ -1,0 +1,12 @@
+
+
+.LOGO {
+	position: absolute;
+	height: 304px;
+	width: 300px;
+	bottom: 20px;
+	left: 20px;
+	background-image: url(../img/Logo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
